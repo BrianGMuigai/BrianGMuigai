@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Brian Muigai 👋
+# Hi there, I'm Brian Muigai 👋
 
 ### Backend Engineer · Java / Spring Boot · Python · Relational Data Systems
 
