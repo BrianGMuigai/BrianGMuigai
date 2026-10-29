@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 I'm a backend engineer who builds and owns production services in **Java / Spring Boot**, with Python for supporting services and tooling. I care most about correctness under load: sound data models, deliberate transaction boundaries, and systems that are easy to test, observe and change.
 
