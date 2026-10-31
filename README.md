@@ -3,7 +3,9 @@
 # Hi there, I'm Brian Muigai 👋
 
 ### Backend Engineer · Java / Spring Boot · Python · Relational Data Systems
-
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=500&lines=Backend+Engineer;Java+%2F+Spring+Boot;Python+%2F+Relational+Data+Systems" />
+</h3>
 *I build reliable APIs and the data layers behind them.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-muigai/)&nbsp;
