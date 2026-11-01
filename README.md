@@ -3,9 +3,16 @@
 # Hi there, I'm Brian Muigai 👋
 
 ### Backend Engineer · Java / Spring Boot · Python · Relational Data Systems
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=500&lines=Backend+Engineer;Java+%2F+Spring+Boot;Python+%2F+Relational+Data+Systems" />
-</h3>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+profile;Backend+Engineer;Java+%7C+Python+%7C+C%23;Relational+Data+Systems;Always+learning+new+things" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+profile;Backend+Engineer;Java+%7C+Python+%7C+C%23;Relational+Data+Systems;Always+learning+new+things" />
+  <img alt="Welcome to my profile. Backend engineer. Java, Python and C#. Relational data systems." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+profile;Backend+Engineer;Java+%7C+Python+%7C+C%23;Relational+Data+Systems;Always+learning+new+things" />
+</picture>
+
+
+
 *I build reliable APIs and the data layers behind them.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-muigai/)&nbsp;
