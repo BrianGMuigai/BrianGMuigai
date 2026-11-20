@@ -120,13 +120,18 @@ I'm open to collaborating on backend projects and talking system design, Python 
 
 <div align="center">
 
-```text
-"The most reliable code is the code you didn't have to write.
- The next best is the code that is easy to replace."
-```
+---
 
-**⭐ If you find my work interesting, consider starring my repositories.**
+<h3><i>"Simplicity is prerequisite for reliability.<br>
+Complexity is where the bugs hide."</i></h3>
+
+---
+
+⭐ **If you find my work interesting, consider starring my repositories.**
 
 <sub>Engineered with ☕ and Bash on Fedora</sub>
 
 </div>
+
+
+
