@@ -2,12 +2,12 @@
 
 # Hi there, I'm Brian Muigai 👋
 
-### Backend Engineer · Java / Spring Boot · Python · Relational Data Systems
+### Backend Engineer · Java / Spring Boot · Python · C# · Relational Data Systems
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+profile;Backend+Engineer;Java+%7C+Python+%7C+C%23;Relational+Data+Systems;Always+learning+new+things" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+profile;Backend+Engineer;Java+%7C+Python+%7C+C%23;Relational+Data+Systems;Always+learning+new+things" />
-  <img alt="Welcome to my profile. Backend engineer. Java, Python and C#. Relational data systems." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+profile;Backend+Engineer;Java+%7C+Python+%7C+C%23;Relational+Data+Systems;Always+learning+new+things" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=600&height=45&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Python+%7C+C%23;PostgreSQL+%7C+SQL+Server+%7C+Flyway;Reliable+APIs+and+data+layers" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Python+%7C+C%23;PostgreSQL+%7C+SQL+Server+%7C+Flyway;Reliable+APIs+and+data+layers" />
+  <img alt="Backend engineer. Java, Spring Boot, Python and C#. PostgreSQL, SQL Server and Flyway." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Python+%7C+C%23;PostgreSQL+%7C+SQL+Server+%7C+Flyway;Reliable+APIs+and+data+layers" />
 </picture>
 
 *I build reliable APIs and the data layers behind them.*
@@ -23,12 +23,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend engineer who builds and owns production services in **Java / Spring Boot**, with Python for supporting services and tooling. I care most about correctness under load: sound data models, deliberate transaction boundaries, and systems that are easy to test, observe and change.
+I'm a backend engineer building services in **Java / Spring Boot** and the relational data layer beneath them, with Python for supporting services and tooling. I care most about correctness under load: sound data models, deliberate transaction boundaries, and systems that are easy to test, observe and change.
+
+**Currently:** building a hospital management backend (Spring Boot, PostgreSQL, Flyway) as an individual project.
 
 ## ⚙️ What I Work On
 
-- 📡 **APIs:** RESTful services with strict request validation, cursor-based pagination and centralized exception handling
-- 🗄️ **Data:** normalized schemas, compound indexes and versioned Flyway migrations on PostgreSQL and SQL Server, with isolation levels and locking (`UPDLOCK`) chosen per use case
+- 📡 **APIs:** RESTful services with strict request validation, cursor-based pagination and centralised exception handling
+- 🗄️ **Data:** normalised schemas, compound indexes and versioned Flyway migrations on PostgreSQL and SQL Server, with isolation levels and locking (`UPDLOCK`) chosen per use case
 - 📨 **Messaging & Caching:** event-driven services on Kafka, with Redis on the hot read paths
 - ✅ **Quality:** unit and integration tests with JUnit and Mockito, enforced through CI on every change
 - 📦 **Delivery:** multi-stage Docker builds, plus Bash and Python tooling to remove repetitive operational work
@@ -96,21 +98,19 @@ Ingestion ──► Kafka (event queue) ──► Java service (business logic)
 
 ## 🚀 Featured Projects
 
-<!-- Add your projects here. Example format:
+### [Hospital Management System](https://github.com/BrianGMuigai/Hospital-System)
+Spring Boot backend on a 52-table PostgreSQL schema covering clinical, pharmacy and lab, billing and HR. Individual project, in development. The design notes cover where each rule is enforced (database or service layer), row-level locking for check-then-write operations, and forward-only Flyway migrations.
+`Java` `Spring Boot` `PostgreSQL` `Flyway`
 
-### [Project Name](https://github.com/YOUR_USERNAME/project-name)
-One-line description of what it does and why it matters.
-`Java` `Spring Boot` `PostgreSQL` `Docker`
-
--->
-
-*Projects coming soon.*
+### [Portfolio](https://github.com/BrianGMuigai/portfolio)
+Personal site built with Next.js, TypeScript and Tailwind CSS, with CI running a type check and build on every push. Live at [brianmuigai.vercel.app](https://brianmuigai.vercel.app/).
+`Next.js` `TypeScript` `Tailwind CSS` `GitHub Actions`
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to collaborating on backend projects and talking system design, Python and distributed systems.
+I'm open to backend roles and happy to talk system design or data modelling.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/brian-muigai/)
 - 🌐 [Portfolio](https://brianmuigai.vercel.app/)
@@ -120,18 +120,9 @@ I'm open to collaborating on backend projects and talking system design, Python 
 
 <div align="center">
 
----
-
 <h3><i>"Simplicity is prerequisite for reliability.<br>
 Complexity is where the bugs hide."</i></h3>
-
----
-
-⭐ **If you find my work interesting, consider starring my repositories.**
 
 <sub>Engineered with ☕ and Bash on Fedora</sub>
 
 </div>
-
-
-
