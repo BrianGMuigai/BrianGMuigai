@@ -118,11 +118,14 @@ I'm open to backend roles and happy to talk system design or data modelling.
 
 ---
 
+---
+
 <div align="center">
 
 <h3><i>"Simplicity is prerequisite for reliability.<br>
 Complexity is where the bugs hide."</i></h3>
 
-<sub>Engineered with ☕ and Bash on Fedora</sub>
+<sub><b>🐧 Fedora • Bash • ☕</b></sub>
 
 </div>
+
